@@ -6,7 +6,7 @@ In this code we implement a classification and clustering system for the data se
         Run tf-idf
         Run word2vec
         k-NN Implementation and similarity criteria
-        Implement Bayes Naive
+        Implement Naive Bayes 
         Implementation of evaluation criteria
         Illustration and analysis of methods accuracy
         Predict the new ad classification
